@@ -1,2 +1,6 @@
 *.graphql linguist-detectable=true
+*.graphql linguist-language=sql
+*.graphql text
 *.gql linguist-detectable=true
+*.gql linguist-language=sql
+*.gql text
