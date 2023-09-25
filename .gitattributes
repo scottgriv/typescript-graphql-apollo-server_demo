@@ -1,3 +1,2 @@
 *.graphql linguist-detectable=true
 *.gql linguist-detectable=true
-*.ts linguist-detectable=false
