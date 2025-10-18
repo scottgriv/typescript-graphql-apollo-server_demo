@@ -15,7 +15,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 **Repository Tier:** Bronze <br>
 **Technology:** TypeScript, GraphQL, Apollo Server <br>
 **Category:** Web Server <br>
-**Order:** 40 <br>
+**Order:** 38 <br>
 
 ## Parameters
 
